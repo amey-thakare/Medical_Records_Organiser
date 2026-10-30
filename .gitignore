@@ -22,3 +22,16 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environment & secrets
+.env
+.env.*
+*.env
+
+# Builds & Binaries
+*.apk
+*.aab
+
+# Dataset & Uploads
+dataset/
+uploads/
